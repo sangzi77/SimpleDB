@@ -1,8 +1,9 @@
 # SimpleDB
-## SimpleDB是MIT基于数据库内核教学实现的 OLTP 的关系型数据库
+SimpleDB是MIT基于数据库内核教学实现的 OLTP 的关系型数据库
 
 项目简介：SimpleDB是MIT基于数据库内核教学实现的 OLTP 的关系型数据库。\
 项目模块：数据库的基本存储、操作算子、淘汰策略、查询优化、事务、索引、日志回滚和恢复等。\
+
 技术要点：\
 实现了基于LRU页面置换算法的 BufferPool Management。\
 通过实现严格二阶段锁，实现了事务的并发控制。\
