@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2106e54-b188-4bca-b2d0-7a093a75eff2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/SimpleDb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/SimpleDb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/common/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/common/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/common/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/common/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/Aggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/Aggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/Delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/Delete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/HashEquiJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/HashEquiJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/Insert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/IntegerAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/IntegerAggregator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/Join.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/JoinPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/JoinPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/OpIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/OpIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/OrderBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/OrderBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/PlanCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/PlanCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/Predicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/Query.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/SeqScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/SeqScan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/execution/StringAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/execution/StringAggregator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/index/BTreeEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/index/BTreeEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/index/BTreeFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/index/BTreeFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/index/BTreeHeaderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/index/BTreeHeaderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/index/BTreeInternalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/index/BTreeInternalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/index/BTreeLeafPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/index/BTreeLeafPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/index/BTreePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/index/BTreePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/index/BTreePageId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/index/BTreePageId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/index/BTreeRootPtrPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/index/BTreeRootPtrPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/index/BTreeScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/index/BTreeScan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/optimizer/CostCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/optimizer/CostCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/optimizer/IntHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/optimizer/IntHistogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/optimizer/JoinOptimizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/optimizer/JoinOptimizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/optimizer/StringHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/optimizer/StringHistogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/optimizer/TableStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/optimizer/TableStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/AbstractDbFileIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/AbstractDbFileIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/BufferPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/BufferPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/DbFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/DbFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/DbFileIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/DbFileIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/HeapFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/HeapFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/HeapPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/HeapPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/HeapPageId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/HeapPageId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/LogFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/LogFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/RecordId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/RecordId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/Tuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/Tuple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/simpledb/storage/TupleDesc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/simpledb/storage/TupleDesc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/AggregateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/AggregateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/CatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/CatalogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/DeadlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/DeadlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/HeapFileReadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/HeapFileReadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/HeapPageReadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/HeapPageReadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/HeapPageWriteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/HeapPageWriteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/InsertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/InsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/IntHistogramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/IntHistogramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/IntegerAggregatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/IntegerAggregatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/JoinOptimizerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/JoinOptimizerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/JoinPredicateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/JoinPredicateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/JoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/JoinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/LockingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/LockingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/PredicateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/PredicateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/TableStatsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/TableStatsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/TupleDescTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/TupleDescTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/TupleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/TupleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/AbortEvictionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/AbortEvictionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/AggregateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/AggregateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/DeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/DeleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/EvictionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/EvictionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/FilterBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/FilterBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/FilterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/FilterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/LogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/LogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/ScanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/ScanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/SystemTestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/SystemTestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simpledb/systemtest/TransactionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/simpledb/systemtest/TransactionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2HWmZPE5jIZ2HZxmBtBQeJodzph" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/NsimpleDB/simple-db-hw-2021" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.TableStatsTest.estimateSelectivityTest">
+    <configuration name="DeadlockTest.testReadWriteDeadlock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simple-db-hw-2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpledb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="simpledb" />
+      <option name="MAIN_CLASS_NAME" value="simpledb.DeadlockTest" />
+      <option name="METHOD_NAME" value="testReadWriteDeadlock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvictionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simple-db-hw-2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpledb.systemtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="simpledb.systemtest" />
+      <option name="MAIN_CLASS_NAME" value="simpledb.systemtest.EvictionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableStatsTest.estimateSelectivityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simple-db-hw-2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpledb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="simpledb" />
+      <option name="MAIN_CLASS_NAME" value="simpledb.TableStatsTest" />
+      <option name="METHOD_NAME" value="estimateSelectivityTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simple-db-hw-2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpledb.systemtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="simpledb.systemtest" />
+      <option name="MAIN_CLASS_NAME" value="simpledb.systemtest.TransactionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionTest.testAllDirtyFails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simple-db-hw-2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpledb.systemtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="simpledb.systemtest" />
+      <option name="MAIN_CLASS_NAME" value="simpledb.systemtest.TransactionTest" />
+      <option name="METHOD_NAME" value="testAllDirtyFails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TableStatsTest.estimateSelectivityTest" />
+        <item itemvalue="JUnit.EvictionTest" />
+        <item itemvalue="JUnit.TransactionTest.testAllDirtyFails" />
+        <item itemvalue="JUnit.TransactionTest" />
+        <item itemvalue="JUnit.DeadlockTest.testReadWriteDeadlock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2106e54-b188-4bca-b2d0-7a093a75eff2" name="Default Changelist" comment="" />
+      <created>1668409271034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668409271034</updated>
+      <workItem from="1668409274483" duration="7000" />
+      <workItem from="1668409303476" duration="452000" />
+      <workItem from="1668409766770" duration="3455000" />
+      <workItem from="1668424721898" duration="9000" />
+      <workItem from="1668494809871" duration="3666000" />
+      <workItem from="1668567602180" duration="29000" />
+      <workItem from="1668781272028" duration="10842000" />
+      <workItem from="1668838193191" duration="6000" />
+      <workItem from="1668999262164" duration="2589000" />
+      <workItem from="1669014864291" duration="2000" />
+      <workItem from="1669014921004" duration="4000" />
+      <workItem from="1669028772867" duration="8028000" />
+      <workItem from="1669083847889" duration="5936000" />
+      <workItem from="1669202902852" duration="2597000" />
+      <workItem from="1669209505124" duration="655000" />
+      <workItem from="1669250657070" duration="1755000" />
+      <workItem from="1669255282332" duration="3629000" />
+      <workItem from="1669342553520" duration="1000" />
+      <workItem from="1669342618003" duration="1000" />
+      <workItem from="1669440358454" duration="10475000" />
+      <workItem from="1669531097119" duration="178000" />
+      <workItem from="1669634997720" duration="4851000" />
+      <workItem from="1669688499710" duration="1451000" />
+      <workItem from="1669704304975" duration="5076000" />
+      <workItem from="1669784043391" duration="20056000" />
+      <workItem from="1670047431906" duration="124000" />
+      <workItem from="1670127568117" duration="11509000" />
+      <workItem from="1670164888516" duration="105000" />
+      <workItem from="1670169616283" duration="6000" />
+      <workItem from="1670200570633" duration="12195000" />
+      <workItem from="1670287383742" duration="12313000" />
+      <workItem from="1670375291514" duration="4326000" />
+      <workItem from="1670422776114" duration="277000" />
+      <workItem from="1670549958431" duration="10000" />
+      <workItem from="1670815140437" duration="9324000" />
+      <workItem from="1671692930307" duration="1208000" />
+      <workItem from="1671721485032" duration="2195000" />
+      <workItem from="1672290940402" duration="6000" />
+      <workItem from="1672738145192" duration="1513000" />
+      <workItem from="1672994275431" duration="908000" />
+      <workItem from="1673343793719" duration="5635000" />
+      <workItem from="1673372048780" duration="25000" />
+      <workItem from="1673372078302" duration="16686000" />
+      <workItem from="1673621349767" duration="28676000" />
+      <workItem from="1674832542640" duration="3291000" />
+      <workItem from="1674906611693" duration="10117000" />
+      <workItem from="1674993899164" duration="28383000" />
+      <workItem from="1675437272194" duration="10764000" />
+      <workItem from="1675570016295" duration="17018000" />
+      <workItem from="1675915977877" duration="840000" />
+      <workItem from="1676032919562" duration="3332000" />
+      <workItem from="1676247082845" duration="2548000" />
+      <workItem from="1676250398394" duration="1757000" />
+      <workItem from="1676455159543" duration="1059000" />
+      <workItem from="1676518994722" duration="194000" />
+      <workItem from="1676531289206" duration="2000" />
+      <workItem from="1676536108651" duration="624000" />
+      <workItem from="1676687966300" duration="1795000" />
+      <workItem from="1677678209865" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
