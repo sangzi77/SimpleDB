@@ -12,10 +12,10 @@ Project Introduction：SimpleDB is an OLTP relational database implemented by MI
 Project module：Basic storage, operation operator, elimination strategy, query optimization, transaction, index, log rollback and recovery of database.
 
 Technical points：\
-Realized BufferPool Management based on LRU page replacement algorithm。\
-The concurrency control of transactions is realized by implementing strict two-phase locking。\
-Establish histogram by sampling table data and establish Cost Model to estimate the cost of Filter and Join。\
-Realize the B+tree as the index of the database, and realize the operations of data query, insertion, deletion, page splitting, page merging, etc。\
-The buffer pool uses the Steal/No-Force policy and realizes transaction recovery and rollback operations through pre-write logs。
++ Realized BufferPool Management based on LRU page replacement algorithm。\
++ The concurrency control of transactions is realized by implementing strict two-phase locking。\
++ Establish histogram by sampling table data and establish Cost Model to estimate the cost of Filter and Join。\
++ Realize the B+tree as the index of the database, and realize the operations of data query, insertion, deletion, page splitting, page merging, etc。\
++ The buffer pool uses the Steal/No-Force policy and realizes transaction recovery and rollback operations through pre-write logs。
 
 
