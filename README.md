@@ -8,7 +8,7 @@ http://db.csail.mit.edu/6.830/ \
     Lab 5: Query Optimization 
     Lab 6: Rollback and Recovery
     
-Project Introduction：SimpleDB is an OLTP relational database implemented by MIT based on database kernel teaching。
+Project Introduction：SimpleDB is an OLTP relational database implemented by MIT based on database kernel teaching。 \
 Project module：Basic storage, operation operator, elimination strategy, query optimization, transaction, index, log rollback and recovery of database.
 
 Technical points：
