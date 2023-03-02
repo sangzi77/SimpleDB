@@ -1,5 +1,5 @@
 # SimpleDB
-http://db.csail.mit.edu/6.830/
+http://db.csail.mit.edu/6.830/ \
 SimpleDB是MIT基于数据库内核教学实现的 OLTP 的关系型数据库
 
     Lab 1: SimpleDB 
