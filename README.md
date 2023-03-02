@@ -1,5 +1,5 @@
 # SimpleDB
-http://db.csail.mit.edu/6.830/ \
+http://db.csail.mit.edu/6.830/ 
 
     Lab 1: SimpleDB 
     Lab 2: SimpleDB Operators 
